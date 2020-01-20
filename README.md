@@ -56,11 +56,11 @@ The app had a tree structure, this can be seen quite clearly using XCode. The la
 
 ## Preview 
 Below are the images of the mechanics app running on an IPhone X 
-<img src="./img/preview1.PNG" width="50px">
-<img src="./img/preview2.PNG" width="50px">
-<img src="./img/preview3.PNG" width="50px">
-<img src="./img/preview4.PNG" width="50px">
-<img src="./img/preview5.PNG" width="50px">
+<img src="./img/preview1.PNG" width="100px">
+<img src="./img/preview2.PNG" width="100px">
+<img src="./img/preview3.PNG" width="100px">
+<img src="./img/preview4.PNG" width="100px">
+<img src="./img/preview5.PNG" width="100px">
 
 
 ## Adjusting Ad Mob 
